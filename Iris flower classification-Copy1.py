@@ -236,16 +236,3 @@ model.fit(x_train,y_train)
 
 
 print("Accuracy", model.score(x_test,y_test)*100)
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
